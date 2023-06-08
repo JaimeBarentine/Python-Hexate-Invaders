@@ -1,3 +1,10 @@
+# classic arcade space shooter style game for an assignment in my Pygame class
+# player shoots diagonally, forcing angled shots
+# shoot barrier shield objects (elephant) to shoot vertical shots
+# hide behind elephants for cover
+# collect the butterfly for triple shot
+# game gets progressively harder with more UFOs attacking
+
 import pygame
 
 # used for randomness of velocity
